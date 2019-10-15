@@ -1,6 +1,6 @@
-# cardapio
+# Caradapio com Flutter e Firebase
 
-A new Flutter project.
+Aplicativo em Flutter e Dart usando como back-end o serviço de Firebase
 
 ## Getting Started
 
