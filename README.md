@@ -1,16 +1,11 @@
 # Caradapio com Flutter e Firebase
 
-Aplicativo em Flutter e Dart usando como back-end o serviço de Firebase
+- Aplicativo em Flutter e Dart usando como back-end o serviço de Firebase
 
-## Getting Started
+Desenvolvimento de um App para estudos utilizando o Framework Flutter que possui como linguagem o Dart
 
-This project is a starting point for a Flutter application.
+Utiliza-se do banco de dados Firebase que conta com todo um suporte back-end, permitindo assim que a unica preocupação seja o desenvolvimento do aplicativo
 
-A few resources to get you started if this is your first Flutter project:
+O aplicativo contem uma tela inicial, onde o usuario pode realizar login seja atraves de seus dados cadastrais ou Facebook, tambem é possivel realizar o cadastro e acessar uma parte destinada a recuperação de sua senha
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Ao logar o usuario tem acesso ao pratos que estão em promoção e tambem possui um menu lateral onde pode visualizar a divisão por categorias
